@@ -2,21 +2,21 @@
 # yarn lockfile v1
 
 
-"@datadog/browser-core@1.11.4", "@datadog/browser-core@file:../../packages/core":
-  version "1.11.4"
+"@datadog/browser-core@1.12.9", "@datadog/browser-core@file:../../packages/core":
+  version "1.12.9"
   dependencies:
     tslib "1.10.0"
 
 "@datadog/browser-logs@file:../../packages/logs":
-  version "1.11.4"
+  version "1.12.9"
   dependencies:
-    "@datadog/browser-core" "1.11.4"
+    "@datadog/browser-core" "1.12.9"
     tslib "1.10.0"
 
 "@datadog/browser-rum@file:../../packages/rum":
-  version "1.11.4"
+  version "1.12.9"
   dependencies:
-    "@datadog/browser-core" "1.11.4"
+    "@datadog/browser-core" "1.12.9"
     tslib "1.10.0"
 
 "@webassemblyjs/ast@1.8.5":
@@ -678,9 +678,9 @@ debug@^2.2.0, debug@^2.3.3:
     ms "2.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 define-property@^0.2.5:
   version "0.2.5"
