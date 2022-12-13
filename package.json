@@ -48,7 +48,7 @@
     "codecov": "3.7.0",
     "cors": "2.8.5",
     "emoji-name-map": "1.2.8",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "istanbul-instrumenter-loader": "3.0.1",
     "jasmine-core": "3.5.0",
     "js-polyfills": "0.1.42",
